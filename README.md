@@ -1,6 +1,6 @@
 ### Description
 
-This was a quick 2hrs react crash course with introducement of Hooks, Routing, Axios and TailwindsCSS. Tutorial was made by "Quentin Watt Tutorials", link: 
+This was a quick 2hrs react crash course with introducement to Hooks, Routing, Axios and TailwindsCSS. Tutorial was made by "Quentin Watt Tutorials", link: 
 https://www.youtube.com/watch?v=mACw_G-okPE&t=1s&ab_channel=QuentinWattTutorials
 
 
